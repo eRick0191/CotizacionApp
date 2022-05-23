@@ -1,0 +1,23 @@
+<resources>
+
+
+    <string name="app_name">Cotizacion</string>
+    <string name="numeroCotizacion">Numero de cotizacion:</string>
+    <string name="descripcion">Descripcion:</string>
+    <string name="precio">Precio:</string>
+    <string name="porcentaje">Porcentaje del pago inicial:</string>
+    <string name="plazo">Plazo(Meses):</string>
+    <string name="pagoInicial">Pago inicial:</string>
+    <string name="totalFinanciar">Total a fin:</string>
+    <string name="pagoMensual">Pago mensual:</string>
+    <string name="botonCalc">Calcular Cotizacion</string>
+    <string name="botonRegresar">Finalizar</string>
+
+    <string-array name="plazos">
+        <item>12</item>
+        <item>24</item>
+        <item>36</item>
+        <item>48</item>
+        <item>60</item>
+    </string-array>
+</resources>
